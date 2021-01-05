@@ -1,0 +1,12 @@
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.todo {
+  display: flex;
+  flex-direction: row;
+}
